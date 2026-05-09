@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodePractice.Week_06Heap
+namespace LeetCodePractice.Week_07Heap
 {
     public  class K_Closest_Points_to_Origin
     {

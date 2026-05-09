@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodePractice.Week_07Graph
+namespace LeetCodePractice.Week_08Graph
 {
     public class Number_of_Islands
     {
